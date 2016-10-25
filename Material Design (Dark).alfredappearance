@@ -10,16 +10,16 @@
       },
       "shortcut" : {
         "size" : 16,
-        "colorSelected" : "#757575CE",
+        "colorSelected" : "#8FA3AEFF",
         "font" : "System Light",
-        "color" : "#A4A4A49B"
+        "color" : "#8C969CB2"
       },
       "backgroundSelected" : "#36464FFF",
       "text" : {
         "size" : 16,
         "colorSelected" : "#ECEFF2FF",
         "font" : "Roboto",
-        "color" : "#ECEFF266"
+        "color" : "#8C969CB2"
       },
       "iconPaddingHorizontal" : 5,
       "paddingVertical" : 8,
