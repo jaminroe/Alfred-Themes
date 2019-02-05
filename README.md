@@ -8,7 +8,7 @@ Some themes I've made for Alfred App v3
 ![Material Design (Dark)](https://github.com/jaminroe/Alfred-Themes/blob/master/Images/Material%20Design%20(Dark).png)
 
 ## Install instructions
-* Install the Robot font files
+* Install the Roboto font files
 * Double click the .alfredappearance file
 * Use Roboto font for text, Condensed on Subtext and Shortcuts
 * Done!
